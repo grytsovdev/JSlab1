@@ -1,0 +1,28 @@
+body {
+  background-image: url(https://img.freepik.com/free-photo/white-cloud-sky-background_74190-4646.jpg?w=2000);
+}
+
+header {
+  text-align: center;
+}
+
+.result {
+  display: inline-block;
+  border-radius: 5px;
+  padding: 5px 10px;
+  margin: 10px;
+}
+
+ul {
+  list-style: none;
+}
+.container {
+  background-color: paleturquoise;
+  width: 1200px;
+  margin: 0 auto;
+  text-align: center;
+  color: darkblue;
+}
+p {
+  margin-bottom: 50px;
+}
